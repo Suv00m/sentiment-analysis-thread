@@ -6,6 +6,8 @@
 2. **dataset:**
 ---
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10946841%2F0bee4ec6e9bd40fe17a2160d9ea0924b%2FScreenshot%202023-08-10%20123248.png?generation=1691651002773440&alt=media)
+--- 
+
 ### **Notebook:** 
 ---
 1. This [notebook](https://www.kaggle.com/code/shuvammandal121/sentiment-analysis-on-the-dataset)  developed on the basis on the basis of the above dataset. 
